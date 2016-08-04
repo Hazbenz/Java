@@ -1,5 +1,5 @@
 /**
- * Created by Maureen Hanna on 05/15/16.
+ * Created by Hasna Benzekri on 05/15/16.
  */
 //An interface is a reference type in Java, it is similar to class, it is a collection of abstract methods. A class
 //implements an interface, thereby inheriting the abstract methods of the interface.
