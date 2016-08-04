@@ -1,7 +1,7 @@
 import javax.swing.*;
 
 /**
- * Created by Maureen Hanna on 05/15/16.
+ * Created by Hasna Benzekri on 05/15/16.
  */
 
 public class RunSimulatorGUI {
