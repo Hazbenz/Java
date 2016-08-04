@@ -1,7 +1,7 @@
 import java.awt.*;
 
 /**
- * Created by Maureen Hanna on 05/15/16.
+ * Created by Hasna Benzekri on 05/15/16.
  */
 public class Plants implements Living, Runnable{
     public static Integer numPlants = 0;
